@@ -12,5 +12,3 @@ end
 
 end
 
-cobble = Shoe.new("Some Title")
-condition.cobble
