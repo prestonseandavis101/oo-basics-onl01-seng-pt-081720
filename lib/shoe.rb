@@ -6,7 +6,7 @@ class Shoe
     @brand = brand
   end
   
-  def turn_page
+  def c
   puts "Flipping the page...wow, you read fast!"
 end
 
